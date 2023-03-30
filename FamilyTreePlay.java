@@ -6,6 +6,6 @@ public class FamilyTreePlay {
         father.say();
         Son son = new Son("Сын", "Вася", 15, 156);
         son.say();
-        System.out.println(father);
+        
     }
 }
